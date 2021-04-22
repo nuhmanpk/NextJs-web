@@ -1,4 +1,4 @@
-[![Deploy with Vercel](https://vercel.co/button)](https://vercel.co/new/project?template=https://github.com/bughunter0/aryanvikash.com)
+[![Deploy with Vercel](https://vercel.co/button)](https://vercel.co/new/project?template=https://github.com/bughunter0/nuhman_pk.com)
 
 ## Developer Portfolio In NEXTJS
 
