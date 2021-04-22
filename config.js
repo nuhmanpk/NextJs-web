@@ -1,6 +1,7 @@
 export default {
-  TgUsername: "bughunter0",
-  GithubUsername: "bughunter0",
+  tgUsername: "bughunter0",
+  githubUsername: "bughunter0",
+  websiteName: "cybergeoffical",
   heroHead: "Hey There !!",
   heroText: "Nuhman is here , I’m a ",
   facebookUsername: "Nuhman Pk",
