@@ -3,7 +3,7 @@
 
 # Deploy Now On Vercel
 
-[![Deploy with Vercel](https://vercel.co/new/project?template=https://github.com/bughunter0/nuhman_pk.com)
+[Deploy with Vercel](https://vercel.co/new/project?template=https://github.com/bughunter0/nuhman_pk.com)
 
 ## Developer Portfolio In NEXTJS
 
