@@ -12,7 +12,7 @@ ____
 
     Replace varible name From config.js file
 
-# Always Ready to help, Teach me through Telegram, Instagram And email
+# Always Ready to help, Reach me through Telegram, Instagram And email
 
 ## Change Info here
  
