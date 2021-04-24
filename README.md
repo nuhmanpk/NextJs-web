@@ -1,5 +1,5 @@
-## Credit 
- Aryan Vikas For His [Aryan Vikas.com](https://github.com/aryanvikash/aryanvikash.com)
+# Take a Demo Here 
+  [https://nuhman_pk-vercel.app](https://nuhman-pk.vercel.app)
 
 # Deploy Now On Vercel
 
@@ -20,7 +20,7 @@ ____
     githubUsername: "github Username",
     websiteName: "Website name that logo",
     heroHead: "Hi There !!",
-    heroText: "I’m AryanVikash and I’m Just a nub Developer!",
+    heroText: "I’m <Your name> and I’m Just a nub Developer!",
     facebookUsername: "Facebook Username",
     instaUsername: "Instagram Username",
 
@@ -28,3 +28,7 @@ ____
 ### Run it on local
     npm install
     npm run dev
+
+
+# Credit 
+ Aryan Vikas For His [AryanVikas.com](https://github.com/aryanvikash)
